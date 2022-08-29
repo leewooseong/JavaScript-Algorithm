@@ -18,10 +18,13 @@ let word = "aaaabbbbabab";
 // }
 
 var i = 0;
+let input = "";
 for (i = 0; i < 10; i++) {
-  document.write("Hello, World!");
-  document.write("<br>");
-  console.log("i : " + i);
+    // console.log("i : " + i);
+    window.prompt(`${i}번째 입력을 입력해주세요.`);
+    window.alert(input);
 }
+
+console.log(input);
 
 // solution(word);
