@@ -1,4 +1,4 @@
-package baeckjoon;
+package baeckjoon.gold;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

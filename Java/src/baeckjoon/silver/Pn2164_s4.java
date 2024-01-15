@@ -1,13 +1,12 @@
-package baeckjoon;
+package baeckjoon.silver;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
-import java.util.StringTokenizer;
 
-public class Pn2164_4 {
+public class Pn2164_s4 {
 	
 	static ArrayDeque<Integer> cardQueue = new ArrayDeque();
 	

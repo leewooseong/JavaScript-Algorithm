@@ -1,4 +1,4 @@
-package baeckjoon;
+package baeckjoon.silver;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 // 도영이의 맛잇는 요리
-public class Pn2961_2 {
+public class Pn2961_s2 {
 	
 	static int ingredientNum;
 	static int usingIngredientNum;

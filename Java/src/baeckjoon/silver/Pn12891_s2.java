@@ -1,4 +1,4 @@
-package baeckjoon;
+package baeckjoon.silver;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-public class Pn12891_2 {
+public class Pn12891_s2 {
 
 	static boolean[] isSelected;
 	static char[] output;

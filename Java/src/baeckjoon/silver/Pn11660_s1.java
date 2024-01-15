@@ -1,14 +1,13 @@
-package baeckjoon;
+package baeckjoon.silver;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 // 구간 합 구하기 4
-public class Pn11660 {
+public class Pn11660_s1 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		// TODO Auto-generated method stub
